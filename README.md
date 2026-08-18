@@ -21,8 +21,7 @@ The product focuses on one question: **What do I need to understand in the next 
 
 A useful news product should reduce confusion, not add to it. Atalk.TV aims to connect current events with context, sources and durable knowledge so readers can understand what changed and why it matters.
 
-Website: https://atalk.tv/  
-Business / media / partnership inquiries: **vip@kingai.work**
+Website: https://atalk.tv/
 
 ### Ownership
 
