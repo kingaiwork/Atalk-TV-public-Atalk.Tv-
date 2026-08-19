@@ -8,6 +8,6 @@ Official Atalk.TV:
 
 https://atalk.tv/
 
-The private `kingaiwork/Atalk.Tv` repository remains the project source authority. Historical public material remains available through this repository's Git history.
+Production implementation remains private. Historical public material remains available through this repository's Git history.
 
 Atalk.TV remains an independent founder personal media project and is not a KING AI product.
