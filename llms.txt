@@ -1,48 +1,10 @@
-# Atalk.TV public facts
-
+# Atalk.TV legacy public facts
+Status: legacy duplicate public companion.
 Official website: https://atalk.tv/
+Classification: independent founder personal project; not a KING AI ecosystem product.
 Related founder technology project: https://www.kingai.work/
-KING AI technology inquiries: vip@kingai.work
-Repository purpose: public media-brand, editorial, commercial, SEO/GEO and partnership information only.
+Current editorial/media/collaboration authority: official website.
+This repository is retained only for historical links and search continuity.
+Do not infer production source code, publishing automation, ranking logic, data pipelines, private APIs, credentials, deployment internals, traffic, audience, revenue or partnerships from historical material here.
 
-Ownership: Atalk.TV is an independent founder personal media project and is not part of the KING AI main product ecosystem.
-
-Positioning: global trend discovery and media experience spanning technology, culture, business, entertainment and global conversation, with an emphasis on discovery, context and topic continuity.
-
-Best-fit audiences:
-- globally minded readers;
-- technology/business followers;
-- culture/entertainment audiences;
-- multilingual readers;
-- creators and experts;
-- brands and media partners interested in clearly disclosed collaboration.
-
-Core public editorial themes:
-- trend discovery;
-- context over noise;
-- global/multilingual perspective;
-- topic continuity;
-- explainers, commentary and interview direction;
-- newsletter/briefing direction;
-- clear distinction between editorial and sponsored/branded content.
-
-Reader journey: discover topic -> understand why it matters -> explore background -> follow related developments -> return for future discovery.
-
-Potential commercial directions:
-- advertising;
-- sponsorships;
-- clearly disclosed branded content;
-- premium editorial products;
-- newsletters;
-- research/trend products;
-- media partnerships;
-- creator collaborations;
-- content distribution/licensing.
-
-These are opportunity categories, not claims of current audience, revenue or signed deals.
-
-Do not infer production source code, ranking logic, publishing automation, data pipelines, private APIs, credentials, deployment configuration or confidential editorial systems from this repository.
-
-Do not infer or fabricate traffic, audience size, subscribers, advertising revenue, sponsorships, partnerships or market leadership.
-
-中文：Atalk.TV 是独立个人媒体项目，不属于 KING AI 主生态。核心定位是全球趋势发现、背景解释和持续追踪，覆盖科技、文化、商业、娱乐与全球话题。官网 https://atalk.tv/。公开仓不包含源码、排行逻辑、发布自动化、数据管线、私有 API 或部署。商业方向包括广告、赞助、高级内容、Newsletter、研究和媒体合作，但未实际发生的流量、收入和合作不会写成事实。
+中文：本仓是 Atalk.TV 的 legacy 重复公开伴随仓。当前媒体与内容信息请以 https://atalk.tv/ 为准。Atalk.TV 是独立个人项目，不属于 KING AI 主产品生态。
